@@ -10,3 +10,13 @@ Neat - it's a hyperlink and everything!
 ***
 2019.05.29 - here are some changes to try and commit ... Well, where is this branch on GitHub??? 
 
+____
+
+This is an addition after I moved the folder ... 
+
+So, if you move a repo folder, in Git, when you do the COMMAND: cd, you have to include the parent folder of the repo - for example:
+
+cd GitHub_Repo/clone_army -->
+
+Then it works! :D
+
